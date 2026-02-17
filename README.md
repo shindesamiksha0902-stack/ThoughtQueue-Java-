@@ -34,6 +34,6 @@ This project provides a structured way to store and process thoughts using the Q
 javac Main.java
 ```
 
-###Run
+Run
 ```bash
 java Main
